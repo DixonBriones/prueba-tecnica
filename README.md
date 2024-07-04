@@ -22,13 +22,13 @@ Para la entrada de prueba, las ciudades se nombran usando las primeras letras de
 Grafo: AB5, BC4, CD8, DC8, DE6, AD5, CE2, EB3, AE7
 
 Salida esperada:
-Salida #1: 9
-Salida #2: 5
-Salida #3: 13
-Salida #4: 22
-Salida #5: NO SUCH ROUTE
-Salida #6: 2
-Salida #7: 3
-Salida #8: 9
-Salida #9: 9
-Salida #10: 7
+1) Salida #1: 9
+2)Salida #2: 5
+3) Salida #3: 13
+4) Salida #4: 22
+5) Salida #5: NO SUCH ROUTE
+6) Salida #6: 2
+7) Salida #7: 3
+8) Salida #8: 9
+9) Salida #9: 9
+10) Salida #10: 7
